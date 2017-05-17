@@ -1,0 +1,125 @@
+/* DOCUMENTO CSS */
+
+body {
+	font-family: Helvetica;
+}
+
+#wrapper {
+	margin: auto;
+	width: 1000px;
+	height: 1000px;
+	background-color: #dbd4de;
+	margin-top: -8px;
+}
+
+#logo {
+	width: 70px;
+	height: 70px;
+	margin-left: 20px;
+	margin-top: 15px;
+	position: absolute;
+}
+
+#menu {
+	margin-top: 100px;
+	width: inherit;
+	height: 70px;
+	position: absolute;
+	background-color: #631d81;
+}
+
+#menu-home {
+	margin-left: 20px;
+	width: 100px;
+	height: 70px;
+	position: absolute;
+	background-color: #4f1767;
+	color: white;
+	text-align: center;
+}
+
+#menu-home:hover {
+	background-color: #3B114D;
+	box-shadow: 2px 2px 10px black;
+}
+
+#menu-prof {
+	margin-left: 120px;
+	width: 120px;
+	height: 70px;
+	position: absolute;
+	background-color: #4f1767;
+	color: white;
+	text-align: center;
+}
+
+#menu-prof:hover {
+	background-color: #3B114D;
+	box-shadow: 2px 2px 10px black;
+}
+
+#menu-cont {
+	margin-left: 240px;
+	width: 120px;
+	height: 70px;
+	position: absolute;
+	background-color: #4f1767;
+	color: white;
+	text-align: center;
+}
+
+#menu-cont:hover {
+	background-color: #3B114D;
+	box-shadow: 2px 2px 10px black;
+}
+
+#menu-cron {
+	margin-left: 360px;
+	width: 120px;
+	height: 70px;
+	position: absolute;
+	background-color: #4f1767;
+	color: white;
+	text-align: center;
+}
+
+#menu-cron:hover {
+	background-color: #3B114D;
+	box-shadow: 2px 2px 10px black;
+}
+
+#menu-mate {
+	margin-left: 480px;
+	width: 120px;
+	height: 70px;
+	position: absolute;
+	background-color: #4f1767;
+	color: white;
+	text-align: center;
+}
+
+#menu-mate:hover {
+	background-color: #3B114D;
+	box-shadow: 2px 2px 10px black;
+}
+
+#lupa {
+	background-color: #3B114D;
+	position: absolute;
+	margin-left: 915px;
+	height: 70px;
+	width: 70px;
+}
+
+#lupa-img {
+	width: 30px;
+	height: 30px;
+	margin-top: 20px;
+	margin-left: 20px;
+	position: absolute;
+}
+
+#lupa:hover {
+	background-color: #4f1767;
+	box-shadow: 2px 2px 10px black;
+}
